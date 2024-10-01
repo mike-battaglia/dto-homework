@@ -1,9 +1,4 @@
----
-
-**Slide Title:** Cracking Consciousness: The Abhidharma's Deep Dive
-
----
-
+# Cracking Consciousness: The Abhidharma's Deep Dive
 ### **Why Consciousness Matters**
 
 - **Suffering Starts Here:** Only conscious beings experience suffering—it's a mind game.
