@@ -1,8 +1,5 @@
----
 
-**Slide Title:** Unlocking the "House of Gems": Introduction to the Abhidharma
-
----
+# Unlocking the "House of Gems": Introduction to the Abhidharma
 
 ### **What Is the Abhidharma?**
 - One of Buddhism's three core collections (**Tripitaka**), alongside the Sutras and Vinaya.
