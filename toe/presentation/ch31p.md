@@ -1,8 +1,4 @@
----
-
-**Slide Title:** Navigating the Mind: Philosophy and Psychology in the Abhidharma
-
----
+# Navigating the Mind: Philosophy and Psychology in the Abhidharma
 
 ### **Buddhism Beyond Labels**
 
