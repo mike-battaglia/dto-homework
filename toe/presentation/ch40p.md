@@ -1,8 +1,4 @@
----
-
-**Slide Title:** The Roadmap to Enlightenment: The Thirty-Seven Factors Unpacked
-
----
+# The Roadmap to Enlightenment: The Thirty-Seven Factors Unpacked
 
 ### **Why These Factors Matter**
 
