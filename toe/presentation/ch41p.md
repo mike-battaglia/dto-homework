@@ -1,8 +1,4 @@
----
-
-**Slide Title:** Bringing It Home: Applying Abhidharma in Daily Life
-
----
+# Bringing It Home: Applying Abhidharma in Daily Life
 
 ### **Your Mind: The Ultimate Life Hack**
 
