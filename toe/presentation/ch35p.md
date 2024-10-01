@@ -1,9 +1,4 @@
----
-
-**Slide Title:** The Final Frontier: Supramundane Consciousness Unveiled
-
----
-
+# The Final Frontier: Supramundane Consciousness Unveiled
 ### **Mundane vs. Supramundane Consciousness**
 
 - **Mundane Consciousness:**
