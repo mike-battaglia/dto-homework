@@ -1,8 +1,4 @@
----
-
-**Slide Title:** The Web of Existence: Understanding Conditionality in the Abhidharma
-
----
+# The Web of Existence: Understanding Conditionality in the Abhidharma
 
 ### **Why Conditionality Matters**
 
