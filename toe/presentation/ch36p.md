@@ -1,8 +1,4 @@
----
-
-**Slide Title:** Building Blocks of Experience: Analysis of Mental States
-
----
+# Building Blocks of Experience: Analysis of Mental States
 
 ### **Consciousness and Mental States: The Dynamic Duo**
 
