@@ -1,8 +1,4 @@
----
-
-**Slide Title:** Hacking the Mind: The Abhidharma's Analysis of Thought-Processes
-
----
+# Hacking the Mind: The Abhidharma's Analysis of Thought-Processes
 
 ### **Why Dive into Thought-Processes?**
 
