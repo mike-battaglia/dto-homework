@@ -1,8 +1,4 @@
----
-
-**Slide Title:** Beyond the Senses: Exploring the Form and Formless Spheres
-
----
+# Beyond the Senses: Exploring the Form and Formless Spheres
 
 ### **Making Sense of Complex Concepts**
 
