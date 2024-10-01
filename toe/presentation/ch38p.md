@@ -1,8 +1,4 @@
----
-
-**Slide Title:** Unveiling Matter: The Abhidharma's Take on Reality
-
----
+# Unveiling Matter: The Abhidharma's Take on Reality
 
 ### **Matter as Experience, Not Essence**
 
