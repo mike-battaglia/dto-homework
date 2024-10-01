@@ -1,9 +1,4 @@
----
-
-**Slide Title:** Peering into Reality: The Abhidharma's Methodology
-
----
-
+# Peering into Reality: The Abhidharma's Methodology
 ### **Two Paths to Understanding**
 
 - **Deductive Method:**
