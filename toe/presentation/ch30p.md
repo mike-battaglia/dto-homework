@@ -3,22 +3,22 @@
 
 ### **What Is the Abhidharma?**
 - One of Buddhism's three core collections (**Tripitaka**), alongside the Sutras and Vinaya.
-- Delves into the mind's inner workings—think of it as Buddhism's version of a deep-dive subreddit on philosophy and psychology.
+- Delves into the Buddhism's approach to philosophy and psychology.
 
 ### **Why Dive Into the Abhidharma?**
 - It's like entering the **"House of Gems"**—a treasure trove of profound wisdom.
-- Goes beyond just meditating and being a good person; it's about hacking the reality code of impermanence, non-self, and insubstantiality.
-- Essential for anyone serious about enlightenment or leveling up their Dharma knowledge.
+- Goes beyond just meditating and being a good person; it's about deeply seeing and understanding impermanence, non-self, and insubstantiality.
+- Essential for fully realizing the Dharma.
 
 ### **Origins & Legends**
-- **The Buddha** cracked the Abhidharma code on the night of his enlightenment.
+- **The Buddha** originated Abhidharma on the night of his enlightenment.
 - Spent a week in the **"House of Gems"** meditating on these teachings.
 - Shared the insights with his mother and the gods in the **Heaven of the Thirty-Three**.
-- Taught the essentials to his top disciple, **Sariputta**—the Buddhist equivalent of a wisdom Jedi Master.
+- Taught the essentials to his top disciple, **Sariputta**.
 
 ### **Abhidharma vs. Sutras**
 - **Sutras**: Use everyday language—stories and teachings relatable to the masses.
-- **Abhidharma**: Goes full-on ultimate reality—no fluff, just the raw data of existence.
+- **Abhidharma**: Goes directly to the facts of our experience.
 - Think of Sutras as the front page of Reddit and Abhidharma as the source code.
 
 ### **Key Terms**
