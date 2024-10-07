@@ -1,8 +1,4 @@
----
-
 **Slide Title**: **Chapter Thirty-Two: Methodology**
-
----
 
 **Abhidharma's Empirical Approach**
 
