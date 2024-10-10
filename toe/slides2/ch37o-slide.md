@@ -1,8 +1,5 @@
----
 
 **Slide Title**: *Chapter 37: Analysis of Thought-Processes*
-
----
 
 **Slide Content**:
 
