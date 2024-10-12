@@ -1,9 +1,5 @@
----
-
 **Slide Title:**
 Chapter 40: The Thirty-Seven Factors of Enlightenment
-
----
 
 **Slide Content:**
 
