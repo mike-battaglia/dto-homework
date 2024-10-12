@@ -1,5 +1,3 @@
----
-
 **Slide Title:**
 Abhidharma in Daily Life
 
