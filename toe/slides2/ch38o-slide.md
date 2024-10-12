@@ -1,10 +1,6 @@
----
-
 **Slide Title:**
 
 **Chapter Thirty-Eight: Analysis of Matter**
-
----
 
 **Main Points:**
 
